@@ -3,4 +3,4 @@ function findNextSquare(sq) {
 }
 
 console.log(findNextSquare(344));
-console.log(findNextSquare(144));
+console.log(findNextSquare(225));
